@@ -8,5 +8,7 @@ public class TestController {
         System.out.println("hello git4");
         System.out.println("hotfix  test");
         System.out.println("master   text");
+        System.out.println("master   text");
+        System.out.println("master   text");
     }
 }
